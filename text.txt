@@ -1,0 +1,32 @@
+HOME        ABOUT      PRICING     TEAM     CONTACT US 
+---------------------
+About
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, nam corporis quas, 
+saepe minima error aperiam dolorum aliquam, quis deserunt eos eius quisquam odio itaque.
+
+------------------------------------
+Play Group
+Lorem ipsum dolor sit amet, consec tetur adipisi cing elit. Ipsa sit, 
+numquam amet voluptatibus obcaecati ea maiores totam nostrum, ad iure rerum quas harum 
+---------------------------------------
+Nursery 
+Lorem ipsum dolor sit amet, consec tetur adipisi cing elit. Ipsa sit, numquam amet 
+voluptatibus obcaecati ea maiores totam nostrum, ad iure rerum quas harum 
+--------------------------------------
+Primery I
+Lorem ipsum dolor sit amet, consec tetur adipisi cing elit. Ipsa sit, numquam 
+amet voluptatibus obcaecati ea maiores totam nostrum, ad iure rerum quas harum 
+----------------------
+
+Contact Us
+We love feedback. Fill out the form below and we'll get back to you as soon as possible. 
+in minus distinctio dolores ipsam.
+
+---------------------------------- 
+Copyright © 2019. Template by: Your Name, All rights reserved
+---------------------------------
+Colors:
+
+#753475
+#ffe6ff
+----------------
