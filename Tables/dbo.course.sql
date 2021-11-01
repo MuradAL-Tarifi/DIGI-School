@@ -1,7 +1,7 @@
 CREATE TABLE [dbo].[course]
 (
 [course_id] [int] NOT NULL IDENTITY(1, 1),
-[course_name] [varchar] (50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+[course_name] [varchar] (100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [professor_id] [int] NULL,
 [StartDate] [date] NULL,
 [EndDate] [date] NULL,
